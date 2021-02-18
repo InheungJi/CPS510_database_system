@@ -2,6 +2,7 @@
 ---
 
 • Languages and tools: Java, SQL / Oracle DBMS
+
 • Goal: to provide service of management of car rental.
 
 • Features
